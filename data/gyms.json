@@ -126,6 +126,15 @@
     }
   },
   {
+    "gymId": "22",
+    "gymName": "Wood Art",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.439755,
+      "longitude": 13.033349
+    }
+  },
+  {
     "gymId": "3",
     "gymName": "Horses Horses Horses",
     "gymInfo": {
