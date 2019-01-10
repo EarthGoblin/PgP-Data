@@ -99,10 +99,16 @@
 		"additionalTerms": "vistation stationvi stationen",
 		"hasExTag": true
 	},
-        "21": {
-                "nickname": "Testgym",
-                "additionalTerms": "test",
-                "hasExTag": false,
-                "additionalInformation": "Det här gymmet finns ej och används endast för felsökning."
-        }
+	"21": {
+		"nickname": "Testgym",
+		"additionalTerms": "test",
+		"hasExTag": false,
+		"additionalInformation": "Det här gymmet finns ej och används endast för felsökning."
+	},
+	"22": {
+		"nickname": "Wood Art",
+		"additionalTerms": "woodart håslöv ängavallen",
+		"hasExTag": true,
+		"additionalInformation": "Det här gymmet finns ej och används endast för felsökning."
+	}
 }
