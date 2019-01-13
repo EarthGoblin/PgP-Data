@@ -135,6 +135,24 @@
     }
   },
   {
+    "gymId": "23",
+    "gymName": "Entrance To Vellinge Boule",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.474003,
+      "longitude": 13.029226
+    }
+  },
+  {
+    "gymId": "24",
+    "gymName": "Vellinge Skatepark",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.468819,
+      "longitude": 13.011130
+    }
+  },
+  {
     "gymId": "3",
     "gymName": "Horses Horses Horses",
     "gymInfo": {

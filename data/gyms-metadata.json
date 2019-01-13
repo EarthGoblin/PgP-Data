@@ -109,5 +109,15 @@
 		"nickname": "Wood Art",
 		"additionalTerms": "woodart håslöv ängavallen",
 		"hasExTag": true
+	},
+	"23": {
+		"nickname": "Entrance To Vellinge Boule",
+		"additionalTerms": "boulebanan boule fjädern",
+		"hasExTag": false
+	},
+	"24": {
+		"nickname": "Vellinge Skatepark",
+		"additionalTerms": "skateparken skate rampen vanningen",
+		"hasExTag": false
 	}
 }
