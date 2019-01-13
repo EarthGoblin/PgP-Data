@@ -108,7 +108,6 @@
 	"22": {
 		"nickname": "Wood Art",
 		"additionalTerms": "woodart håslöv ängavallen",
-		"hasExTag": true,
-		"additionalInformation": "Det här gymmet finns ej och används endast för felsökning."
+		"hasExTag": true
 	}
 }
