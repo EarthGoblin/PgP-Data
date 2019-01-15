@@ -153,6 +153,42 @@
     }
   },
   {
+    "gymId": "25",
+    "gymName": "Lekplats Åkarpsgatan",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.468979,
+      "longitude": 13.026696
+    }
+  },
+  {
+    "gymId": "26",
+    "gymName": "Västra Ingelstad Församlingshem",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.490753,
+      "longitude": 13.116294
+    }
+  },
+  {
+    "gymId": "27",
+    "gymName": "Arrendevägens Fotbollsplan",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.493603,
+      "longitude": 13.108542
+    }
+  },
+  {
+    "gymId": "28",
+    "gymName": "V Ingelsta Fotbollsplan",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.494805,
+      "longitude": 13.113906
+    }
+  },
+  {
     "gymId": "3",
     "gymName": "Horses Horses Horses",
     "gymInfo": {
