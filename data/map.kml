@@ -3,63 +3,92 @@
   <Document>
     <name>map</name>
     <description/>
-    <Style id="poly-000000-1200-77-nodesc-normal">
+    <Style id="line-000000-1000-nodesc-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-000000-1000-nodesc-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1.5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-000000-1000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-000000-1000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-000000-1000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-000000-1200-nodesc-normal">
       <LineStyle>
         <color>ff000000</color>
         <width>1.2</width>
       </LineStyle>
-      <PolyStyle>
-        <color>4d000000</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <Style id="poly-000000-1200-77-nodesc-highlight">
+    <Style id="line-000000-1200-nodesc-highlight">
       <LineStyle>
         <color>ff000000</color>
         <width>1.8</width>
       </LineStyle>
-      <PolyStyle>
-        <color>4d000000</color>
-        <fill>1</fill>
-        <outline>1</outline>
-      </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <StyleMap id="poly-000000-1200-77-nodesc">
+    <StyleMap id="line-000000-1200-nodesc">
       <Pair>
         <key>normal</key>
-        <styleUrl>#poly-000000-1200-77-nodesc-normal</styleUrl>
+        <styleUrl>#line-000000-1200-nodesc-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#poly-000000-1200-77-nodesc-highlight</styleUrl>
+        <styleUrl>#line-000000-1200-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Folder>
-      <name>raidtips</name>
+      <name>Namnlöst lager</name>
       <Placemark>
-        <name>raidtips</name>
-        <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
-        <Polygon>
-          <outerBoundaryIs>
-            <LinearRing>
-              <tessellate>1</tessellate>
-              <coordinates>
-                12.7421987,55.5490996,0
-                12.7476919,55.329411,0
-                13.2578695,55.3270674,0
-                13.2516897,55.5506533,0
-                12.7421987,55.5490996,0
-              </coordinates>
-            </LinearRing>
-          </outerBoundaryIs>
-        </Polygon>
+        <name>vellinge</name>
+        <styleUrl>#line-000000-1000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            13.0690214,55.5101258,0
+            12.9423353,55.5067235,0
+            12.9759809,55.4314083,0
+            13.1023237,55.4337458,0
+            13.0690214,55.5101258,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>v-ingelstad-ö-grevie</name>
+        <styleUrl>#line-000000-1200-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            13.1544067,55.5227428,0
+            13.068576,55.5221598,0
+            13.0690214,55.5101258,0
+            13.1023237,55.4337458,0
+            13.1940604,55.452618,0
+            13.1544067,55.5227428,0
+          </coordinates>
+        </LineString>
       </Placemark>
     </Folder>
   </Document>
