@@ -3,92 +3,81 @@
   <Document>
     <name>map</name>
     <description/>
-    <Style id="line-000000-1000-nodesc-normal">
-      <LineStyle>
-        <color>ff000000</color>
-        <width>1</width>
-      </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="line-000000-1000-nodesc-highlight">
-      <LineStyle>
-        <color>ff000000</color>
-        <width>1.5</width>
-      </LineStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="line-000000-1000-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#line-000000-1000-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#line-000000-1000-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
-    <Style id="line-000000-1200-nodesc-normal">
+    <Style id="poly-000000-1200-77-nodesc-normal">
       <LineStyle>
         <color>ff000000</color>
         <width>1.2</width>
       </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <Style id="line-000000-1200-nodesc-highlight">
+    <Style id="poly-000000-1200-77-nodesc-highlight">
       <LineStyle>
         <color>ff000000</color>
         <width>1.8</width>
       </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
       <BalloonStyle>
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <StyleMap id="line-000000-1200-nodesc">
+    <StyleMap id="poly-000000-1200-77-nodesc">
       <Pair>
         <key>normal</key>
-        <styleUrl>#line-000000-1200-nodesc-normal</styleUrl>
+        <styleUrl>#poly-000000-1200-77-nodesc-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#line-000000-1200-nodesc-highlight</styleUrl>
+        <styleUrl>#poly-000000-1200-77-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Folder>
-      <name>Namnlöst lager</name>
+      <name>regions</name>
       <Placemark>
         <name>vellinge</name>
-        <styleUrl>#line-000000-1000-nodesc</styleUrl>
-        <LineString>
-          <tessellate>1</tessellate>
-          <coordinates>
-            13.0690214,55.5101258,0
-            12.9423353,55.5067235,0
-            12.9759809,55.4314083,0
-            13.1023237,55.4337458,0
-            13.0690214,55.5101258,0
-          </coordinates>
-        </LineString>
+        <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                12.9267963,55.5019619,0
+                13.0208667,55.4112437,0
+                13.1187137,55.4480623,0
+                13.0308231,55.5169318,0
+                12.9267963,55.5019619,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
       </Placemark>
       <Placemark>
         <name>v-ingelstad-ö-grevie</name>
-        <styleUrl>#line-000000-1200-nodesc</styleUrl>
-        <LineString>
-          <tessellate>1</tessellate>
-          <coordinates>
-            13.1544067,55.5227428,0
-            13.068576,55.5221598,0
-            13.0690214,55.5101258,0
-            13.1023237,55.4337458,0
-            13.1940604,55.452618,0
-            13.1544067,55.5227428,0
-          </coordinates>
-        </LineString>
+        <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                13.1187137,55.4480623,0
+                13.1770786,55.4700592,0
+                13.1029208,55.5326731,0
+                13.0308231,55.5169318,0
+                13.1187137,55.4480623,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
       </Placemark>
     </Folder>
   </Document>
