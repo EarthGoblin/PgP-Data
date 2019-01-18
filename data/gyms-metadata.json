@@ -136,8 +136,13 @@
 		"hasExTag": false
 	},
 	"28": {
-		"nickname": "V Ingelsta Fotbollsplan",
+		"nickname": "Västra Ingelstad Fotbollsplan",
 		"additionalTerms": "vifotbollsplan vifotboll",
+		"hasExTag": false
+	},
+	"29": {
+		"nickname": "Månstorps Gavlar",
+		"additionalTerms": "månstorp gavlar ruinen",
 		"hasExTag": false
 	}
 }
