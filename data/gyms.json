@@ -181,11 +181,20 @@
   },
   {
     "gymId": "28",
-    "gymName": "V Ingelsta Fotbollsplan",
+    "gymName": "Västra Ingelstad Fotbollsplan",
     "gymInfo": {
       "gymDescription": "",
       "latitude": 55.494805,
       "longitude": 13.113906
+    }
+  },
+  {
+    "gymId": "29",
+    "gymName": "Månstorps Gavlar",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.478398,
+      "longitude": 13.137331
     }
   },
   {
