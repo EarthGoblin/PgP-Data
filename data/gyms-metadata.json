@@ -144,5 +144,170 @@
 		"nickname": "Månstorps Gavlar",
 		"additionalTerms": "månstorp gavlar ruinen",
 		"hasExTag": false
-	}
+	},
+        "30": {
+                "nickname": "Gränsgatan Boule",
+                "additionalTerms": "gränsboule",
+                "hasExTag": false
+        },
+        "31": {
+                "nickname": "Lekplats Rosenlundsvägen",
+                "additionalTerms": "rosenlundsvägen",
+                "hasExTag": false
+        },
+        "32": {
+                "nickname": "Fuglie Församlingshem",
+                "additionalTerms": "fuglie",
+                "hasExTag": false
+        },
+        "33": {
+                "nickname": "Vikingavägens Lekplats",
+                "additionalTerms": "vikingavägen",
+                "hasExTag": false
+        },
+        "34": {
+                "nickname": "Bärnsten Museum",
+                "additionalTerms": "bärnsten",
+                "hasExTag": false
+        },
+        "35": {
+                "nickname": "Militärbunker 326A",
+                "additionalTerms": "bunker militärbunker",
+                "hasExTag": false
+        },
+        "36": {
+                "nickname": "Ljungskogen",
+                "additionalTerms": "ljungskogen",
+                "hasExTag": false
+        },
+        "37": {
+                "nickname": "Manetvägens Lekplats",
+                "additionalTerms": "manetvägen",
+                "hasExTag": false
+        },
+        "38": {
+                "nickname": "Inprisoned Twisting Pole",
+                "additionalTerms": "twisting pole",
+                "hasExTag": false
+        },
+        "39": {
+                "nickname": "Häst på Dodekaeder",
+                "additionalTerms": "häst dodekaeder",
+                "hasExTag": false
+        },
+        "40": {
+                "nickname": "Möllan Vid IP",
+                "additionalTerms": "möllan ip",
+                "hasExTag": false
+        },
+        "41": {
+                "nickname": "Stora Hammars Lekplats",
+                "additionalTerms": "stora hammar",
+                "hasExTag": false
+        },
+        "42": {
+                "nickname": "Halörhallen",
+                "additionalTerms": "halörshallen halörhallen",
+                "hasExTag": false
+        },
+        "43": {
+                "nickname": "Höllviken Kyrka",
+                "additionalTerms": "höllviken kyrka",
+                "hasExTag": false
+        },
+        "44": {
+                "nickname": "Vikingadrake",
+                "additionalTerms": "vikingadrake draken",
+                "hasExTag": false
+        },
+        "45": {
+                "nickname": "Buga Vid Havet",
+                "additionalTerms": "buga vid havet",
+                "hasExTag": false
+        },
+        "46": {
+                "nickname": "Les Deux Soeurs",
+                "additionalTerms": "les deux soeurs",
+                "hasExTag": false
+        },
+        "47": {
+                "nickname": "Två Träd",
+                "additionalTerms": "två träd träden",
+                "hasExTag": false
+        },
+        "48": {
+                "nickname": "Skanörs Ljung Naturreservat",
+                "additionalTerms": "",
+                "hasExTag": false
+        },
+        "49": {
+                "nickname": "Face On A Stick",
+                "additionalTerms": "face on a stick stickface",
+                "hasExTag": false
+        },
+        "50": {
+                "nickname": "Tiny Windmill",
+                "additionalTerms": "windmill",
+                "hasExTag": false
+        },
+        "51": {
+                "nickname": "Torgfontän",
+                "additionalTerms": "",
+                "hasExTag": false
+        },
+        "52": {
+                "nickname": "Kaptensgården Anchor",
+                "additionalTerms": "ankaret",
+                "hasExTag": false
+        },
+        "53": {
+                "nickname": "Falsterbo Castle Ruins",
+                "additionalTerms": "ruiner castle",
+                "hasExTag": false
+        },
+        "54": {
+                "nickname": "Falsterbo Fyr",
+                "additionalTerms": "falsterbofyr",
+                "hasExTag": false
+        },
+        "55": {
+                "nickname": "Måkläppen",
+                "additionalTerms": "måkläppen",
+                "hasExTag": false
+        },
+        "56": {
+                "nickname": "Skanörs Tångvallarna",
+                "additionalTerms": "tångvallarna",
+                "hasExTag": false
+        },
+        "57": {
+                "nickname": "Skanör Bouldering",
+                "additionalTerms": "bouldering klättring klättervägg",
+                "hasExTag": false
+        },
+        "58": {
+                "nickname": "Skanörs Mölla",
+                "additionalTerms": "",
+                "hasExTag": false
+        },
+        "59": {
+                "nickname": "Strandkyrkan i Skanör",
+                "additionalTerms": "strandkyrkan",
+                "hasExTag": false
+        },
+        "60": {
+                "nickname": "Skanörs Fiskrögeri",
+                "additionalTerms": "fiskrögeri fiskrökeri rögeri rökeri",
+                "hasExTag": false
+        },
+        "61": {
+                "nickname": "Lighthouse",
+                "additionalTerms": "lighthouse",
+                "hasExTag": false
+        },
+        "62": {
+                "nickname": "Skanörs kyrka",
+                "additionalTerms": "skanörskyrka",
+                "hasExTag": false
+        }
 }
