@@ -207,12 +207,192 @@
     }
   },
   {
+    "gymId": "30",
+    "gymName": "Gränsgatan Boule",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.473828,
+      "longitude": 13.011275
+    }
+  },
+  {
+    "gymId": "31",
+    "gymName": "Lekplats Rosenlundsvägen",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.463677,
+      "longitude": 13.138812
+    }
+  },
+  {
+    "gymId": "32",
+    "gymName": "Fuglie Församlingshem",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.447469,
+      "longitude": 13.083150
+    }
+  },
+  {
+    "gymId": "33",
+    "gymName": "Vikingavägens Lekplats",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.407075,
+      "longitude": 13.004389
+    }
+  },
+  {
+    "gymId": "34",
+    "gymName": "Bärnsten Museum",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.400332,
+      "longitude": 12.982579
+    }
+  },
+  {
+    "gymId": "35",
+    "gymName": "Militärbunker 326A",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.401360,
+      "longitude": 12.974977
+    }
+  },
+  {
+    "gymId": "36",
+    "gymName": "Ljungskogen",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.403170,
+      "longitude": 12.961481
+    }
+  },
+  {
+    "gymId": "37",
+    "gymName": "Manetvägens Lekplats",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.407740,
+      "longitude": 12.956500
+    }
+  },
+  {
+    "gymId": "38",
+    "gymName": "Inprisoned Twisting Pole",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.409127,
+      "longitude": 12.965603
+    }
+  },
+  {
+    "gymId": "39",
+    "gymName": "Häst på Dodekaeder",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.412475,
+      "longitude": 12.983537
+    }
+  },
+  {
     "gymId": "4",
     "gymName": "Bilar Huller Om Buller",
     "gymInfo": {
       "gymDescription": "",
       "latitude": 55.472521,
       "longitude": 13.036140
+    }
+  },
+  {
+    "gymId": "40",
+    "gymName": "Möllan Vid IP",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.416320,
+      "longitude": 12.980513
+    }
+  },
+  {
+    "gymId": "41",
+    "gymName": "Stora Hammars Lekplats",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.422171,
+      "longitude": 12.971502
+    }
+  },
+  {
+    "gymId": "42",
+    "gymName": "Halörhallen",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.425867,
+      "longitude": 12.978610
+    }
+  },
+  {
+    "gymId": "43",
+    "gymName": "Höllviken Kyrka",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.425142,
+      "longitude": 12.967756
+    }
+  },
+  {
+    "gymId": "44",
+    "gymName": "Vikingadrake",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.427738,
+      "longitude": 12.952095
+    }
+  },
+  {
+    "gymId": "45",
+    "gymName": "Buga Vid Havet",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.419089,
+      "longitude": 12.950524
+    }
+  },
+  {
+    "gymId": "46",
+    "gymName": "Les Deux Soeurs",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.417860,
+      "longitude": 12.949349
+    }
+  },
+  {
+    "gymId": "47",
+    "gymName": "Två Träd",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.415686,
+      "longitude": 12.946323
+    }
+  },
+  {
+    "gymId": "48",
+    "gymName": "Skanörs Ljung Naturreservat",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.408128,
+      "longitude": 12.905546
+    }
+  },
+  {
+    "gymId": "49",
+    "gymName": "Face On A Stick",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.392264,
+      "longitude": 12.850845
     }
   },
   {
@@ -225,12 +405,129 @@
     }
   },
   {
+    "gymId": "50",
+    "gymName": "Tiny Windmill",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.389137,
+      "longitude": 12.836096
+    }
+  },
+  {
+    "gymId": "51",
+    "gymName": "Torgfontän",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.391056,
+      "longitude": 12.834422
+    }
+  },
+  {
+    "gymId": "52",
+    "gymName": "Kaptensgården Anchor",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.390926,
+      "longitude": 12.832802
+    }
+  },
+  {
+    "gymId": "53",
+    "gymName": "Falsterbo Castle Ruins",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.386172,
+      "longitude": 12.829203
+    }
+  },
+  {
+    "gymId": "54",
+    "gymName": "Falsterbo Fyr",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.383770,
+      "longitude": 12.816377
+    }
+  },
+  {
+    "gymId": "55",
+    "gymName": "Måkläppen",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.378977,
+      "longitude": 12.809788
+    }
+  },
+  {
+    "gymId": "56",
+    "gymName": "Skanörs Tångvallarna",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.401201,
+      "longitude": 12.833801
+    }
+  },
+  {
+    "gymId": "57",
+    "gymName": "Skanör Bouldering",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.412127,
+      "longitude": 12.844797
+    }
+  },
+  {
+    "gymId": "58",
+    "gymName": "Skanörs Mölla",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.414261,
+      "longitude": 12.842708
+    }
+  },
+  {
+    "gymId": "59",
+    "gymName": "Strandkyrkan i Skanör",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.414697,
+      "longitude": 12.843870
+    }
+  },
+  {
     "gymId": "6",
     "gymName": "Lekplats Gränsgatan",
     "gymInfo": {
       "gymDescription": "",
       "latitude": 55.472936,
       "longitude": 13.013320
+    }
+  },
+  {
+    "gymId": "60",
+    "gymName": "Skanörs Fiskrögeri",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.415834,
+      "longitude": 12.831822
+    }
+  },
+  {
+    "gymId": "61",
+    "gymName": "Lighthouse",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.415696,
+      "longitude": 12.829286
+    }
+  },
+  {
+    "gymId": "62",
+    "gymName": "Skanörs kyrka",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.419533,
+      "longitude": 12.849803
     }
   },
   {

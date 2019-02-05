@@ -52,7 +52,7 @@
               <tessellate>1</tessellate>
               <coordinates>
                 12.9267963,55.5019619,0
-                13.0208667,55.4112437,0
+                13.0315097,55.4239101,0
                 13.1187137,55.4480623,0
                 13.0308231,55.5169318,0
                 12.9267963,55.5019619,0
@@ -74,6 +74,29 @@
                 13.1029208,55.5326731,0
                 13.0308231,55.5169318,0
                 13.1187137,55.4480623,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>höllviken-skanör-falsterbo</name>
+        <styleUrl>#poly-000000-1200-77-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                13.0315097,55.4239101,0
+                12.9680809,55.4706734,0
+                12.9547771,55.4444599,0
+                12.9015621,55.4206951,0
+                12.8644832,55.4427072,0
+                12.8339275,55.4349167,0
+                12.8074916,55.3988657,0
+                12.8013118,55.3614158,0
+                13.0028423,55.3893116,0
+                13.0315097,55.4239101,0
               </coordinates>
             </LinearRing>
           </outerBoundaryIs>
