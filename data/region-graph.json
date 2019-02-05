@@ -1,8 +1,12 @@
 {
   "vellinge": [
-    "v-ingelstad-ö-grevie"
+    "v-ingelstad-ö-grevie",
+    "höllviken-skanör-falsterbo"
   ],
   "v-ingelstad-ö-grevie": [
+    "vellinge"
+  ],
+  "höllviken-skanör-falsterbo": [
     "vellinge"
   ]
 }
