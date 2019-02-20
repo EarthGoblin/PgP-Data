@@ -309,5 +309,10 @@
                 "nickname": "Skanörs kyrka",
                 "additionalTerms": "skanörskyrka",
                 "hasExTag": false
+        },
+        "63": {
+                "nickname": "Lekplats Prästgårdsgatan",
+                "additionalTerms": "prästgårdsgatan kyrkogården",
+                "hasExTag": false
         }
 }
