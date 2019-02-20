@@ -531,6 +531,15 @@
     }
   },
   {
+    "gymId": "63",
+    "gymName": "Lekplats Prästgårdsgatan",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.464648,
+      "longitude": 13.019268
+    }
+  },
+  {
     "gymId": "7",
     "gymName": "Lovers at the City Council",
     "gymInfo": {
