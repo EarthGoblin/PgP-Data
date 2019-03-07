@@ -540,6 +540,42 @@
     }
   },
   {
+    "gymId": "64",
+    "gymName": "Scenen",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.497392,
+      "longitude": 12.956764
+    }
+  },
+  {
+    "gymId": "65",
+    "gymName": "Gessie Kyrka",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.501304,
+      "longitude": 12.988217
+    }
+  },
+  {
+    "gymId": "66",
+    "gymName": "Arrie Gamla Lanthandel",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.512468,
+      "longitude": 13.080013
+    }
+  },
+  {
+    "gymId": "67",
+    "gymName": "Arrie kyrka",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.515124,
+      "longitude": 13.084545
+    }
+  },
+  {
     "gymId": "7",
     "gymName": "Lovers at the City Council",
     "gymInfo": {
