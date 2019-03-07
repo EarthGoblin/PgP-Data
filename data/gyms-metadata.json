@@ -314,5 +314,25 @@
                 "nickname": "Lekplats Prästgårdsgatan",
                 "additionalTerms": "prästgårdsgatan kyrkogården",
                 "hasExTag": false
+        },
+        "64": {
+                "nickname": "Scenen",
+                "additionalTerms": "villastad",
+                "hasExTag": false
+        },
+        "65": {
+                "nickname": "Gessie Kyrka",
+                "additionalTerms": "gessie",
+                "hasExTag": false
+        },
+        "66": {
+                "nickname": "Arrie Gamla Lanthandel",
+                "additionalTerms": "lanthandel lanthandeln",
+                "hasExTag": false
+        },
+        "67": {
+                "nickname": "Arrie kyrka",
+                "additionalTerms": "arriekyrka",
+                "hasExTag": false
         }
 }
