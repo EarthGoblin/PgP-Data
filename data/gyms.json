@@ -576,6 +576,15 @@
     }
   },
   {
+    "gymId": "68",
+    "gymName": "Bandyplanen",
+    "gymInfo": {
+      "gymDescription": "",
+      "latitude": 55.472294,
+      "longitude": 13.028694
+    }
+  },
+  {
     "gymId": "7",
     "gymName": "Lovers at the City Council",
     "gymInfo": {
